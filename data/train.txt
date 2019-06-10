@@ -2212,7 +2212,6 @@ data/obj/765OOO01.jpg
 data/obj/598VJZ03.jpg
 data/obj/036AN12.jpg
 data/obj/191PKA01.jpg
-data/obj/364AGA03.jpg
 data/obj/799HTA01.jpg
 data/obj/698UOA01.jpg
 data/obj/142PBA01.jpg
