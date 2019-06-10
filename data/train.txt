@@ -1711,7 +1711,6 @@ data/obj/174CTA03.jpg
 data/obj/111KAZ01.jpg
 data/obj/409NNA03.jpg
 data/obj/985CKO15.jpg
-data/obj/57çPSA03.jpg
 data/obj/660UBA01.jpg
 data/obj/432WHA01.jpg
 data/obj/157WAZ03.jpg
