@@ -2070,7 +2070,6 @@ data/obj/690MMA03.jpg
 data/obj/570BVA03.jpg
 data/obj/771APZ01.jpg
 data/obj/568HBA03.jpg
-data/obj/367NUR03.jpg
 data/obj/046VYZ03.jpg
 data/obj/838PVA03.jpg
 data/obj/090PLA01.jpg
