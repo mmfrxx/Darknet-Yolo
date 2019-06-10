@@ -948,7 +948,6 @@ data/obj/Z919RE.jpg
 data/obj/824ELA10.jpg
 data/obj/635AY01.jpg
 data/obj/986OLA01.jpg
-data/obj/365WTA01.jpg
 data/obj/564WAA01.jpg
 data/obj/611BO01.jpg
 data/obj/733SPA01.jpg
