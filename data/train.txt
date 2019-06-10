@@ -2186,7 +2186,6 @@ data/obj/025NXA03.jpg
 data/obj/961SCA01.jpg
 data/obj/232WTA01.jpg
 data/obj/073DS02.jpg
-data/obj/æ770PFM.jpg
 data/obj/239CFA15.jpg
 data/obj/889OWA01.jpg
 data/obj/823XSA01.jpg
